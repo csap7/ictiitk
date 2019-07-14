@@ -1,3 +1,2 @@
-# ictiitk
-collection of stuff taught at iitk during ict summer training
-stupid codes using really stupid data
+# ICT Academy - IIT Kanpur Summer Training Project
+Final Project done at summer training on Artificial intelligence
